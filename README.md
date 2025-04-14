@@ -1,1 +1,1 @@
-# T-Smart-Home-IoT
+Control lights/fans via RainMaker App. Send alerts if unauthorized motion is detected. RTOS ensures sensor monitoring, alerts, and control run in parallel. Voice assistant integration for hands-free smart home control. OTA updates for adding new security features. 
